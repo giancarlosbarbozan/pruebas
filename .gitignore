@@ -22,7 +22,7 @@
 # System
 *.swp
 *.DS_Store
-#*.DS
+
 
 # Ignore pidfiles, but keep the directory.
 /tmp/pids/*
